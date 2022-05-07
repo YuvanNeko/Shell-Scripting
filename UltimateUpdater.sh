@@ -93,7 +93,7 @@ function update2(){
 
     read selection
 
-    case $selection in 
+    case "$selection" in 
     1)
         updateDebian
         ;;
