@@ -109,6 +109,7 @@ function update2(){
         ;;
     *)
         echo "Please select a valid option"
+        ;;
     esac
 }
 
