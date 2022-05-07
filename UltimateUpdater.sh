@@ -88,8 +88,8 @@ function update(){
 
 function update2(){
     echo "Please select one of the following "
-    echo "1 if you have Debian / Debian based distro    2 if you have Ubuntu or Ubuntu based distro"
-    echo "3 if you have Cent OS / Cent OS based distro  4 if you have Arch / Arch based distro"
+    echo "1 if you have Debian or Debian based distro    2 if you have Ubuntu or Ubuntu based distro"
+    echo "3 if you have Cent OS or Cent OS based distro  4 if you have Arch or Arch based distro"
 
     read selection
 
