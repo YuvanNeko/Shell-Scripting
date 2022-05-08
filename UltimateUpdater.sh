@@ -79,7 +79,7 @@ function updateArch(){
 }
 
 function update(){
-    echo "You've logged in as a root"
+    echo "You've logged in as root"
     sleep 3
     echo "Continuing..."
     sleep 3
