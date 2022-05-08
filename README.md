@@ -1,11 +1,9 @@
 # Shell-Scripting
 
-After downloading the script of your choice, you must give permission for it to execute.
-
-chmod +x  path/to/file
-
-To execute your script 
-
-sudo ./path/to/file
+```git clone https://github.com/YuvanNeko/Shell-Scripting
+cd Shell-Scripting
+chmod +x  ./filename.sh
+./filename.sh
+```
 
 ```wget -qO- https://raw.githubusercontent.com/YuvanNeko/Shell-Scripting/main/UltimateUpdater.sh | sudo bash```
